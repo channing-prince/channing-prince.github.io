@@ -1,18 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
+    <title>格子衫实验室 :: Plaid Lab, Inc.</title>
     <link>http://localhost:1313/index.html</link>
-    <description>This is a new home page.</description>
+    <description></description>
     <generator>Hugo</generator>
-    <language>en-us</language>
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 04 Sep 2024 15:26:24 +0800</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Basics</title>
-      <link>http://localhost:1313/basics/index.html</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/basics/index.html</guid>
-      <description>This is a new chapter.</description>
+      <title>入门指南</title>
+      <link>http://localhost:1313/gettingstart/index.html</link>
+      <pubDate>Wed, 04 Sep 2024 15:26:24 +0800</pubDate>
+      <guid>http://localhost:1313/gettingstart/index.html</guid>
+      <description></description>
     </item>
   </channel>
 </rss>

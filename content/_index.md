@@ -1,6 +1,5 @@
 +++
-archetype = "home"
-title = ""
+title = '格子衫实验室'
+date = 2024-09-04T15:04:25+08:00
 +++
 
-This is a new home page.

@@ -2,7 +2,7 @@
 title = 'Ubuntu硬盘使用说明'
 date = 2024-09-04T15:28:29+08:00
 weight = 1
-draft = true
+draft = false
 +++
 
 

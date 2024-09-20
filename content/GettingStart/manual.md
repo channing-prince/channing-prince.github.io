@@ -1,9 +1,10 @@
 +++
-title = 'manual'
-date = 2024-09-21T1:28:29+08:00
+title = '可视化软件使用说明'
+date = 2024-09-21T01:28:29+08:00
 weight = 2
 draft = false
 +++
+
 
 ## 1. 配置Node.js 环境
 
@@ -53,12 +54,12 @@ e.g. `192.168.3.4:3000`
 
 分别在两个页面导入, 点击右上角菜单,查看,通过文件导入布局,选择json文件
 
-![image-20240921015040755](manual.assets/json.png)
+![image](/images/manual/json.png)
 
 ## 5. 连接ROS
 
 点击菜单，打开连接，选择Rosbridge，输入ROS主机的IP，点击Open
 
-![image-20240921015455760](manual.assets/connection.png)
+![image](/images/manual/connection.png)
 
-![image-20240921015541695](manual.assets/rosbridge.png)
+![image](/images/manual/rosbridge.png)
